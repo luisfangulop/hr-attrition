@@ -1,7 +1,0 @@
-Como balancear la data?: actualmente el attrition representa mas del 19%, como balancear esto en un modelo entrenamiento-prueba?
-solucion: 
--tomar de forma aleatoria para que quede: 50% los que no se han ido luego otro 50% de los que se fueron y ahora si dividirlos en entrenamiento-prueba
--tomar de forma aleatoria para que quede: 19% de los que se fueron y luego dividirlos en entrenamiento-prueba
-
-
-
